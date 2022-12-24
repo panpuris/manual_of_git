@@ -168,3 +168,7 @@
 
     git remote remove origin
 
+Для восстановления связи с удаленным репозиторием, используется команда:
+
+    git remote add origin <Links_on_remote_rep>
+
